@@ -1,1 +1,22 @@
 # Learning Nodejs
+
+- History
+- Built & conversion
+- Nodejs Installation
+    - Node REPL
+    - Global Object
+    - GobalThis
+- Modules
+- Behind Nodejs
+    - IIFE
+    - Behind require function
+    - Nodejs Github
+- libuv async i/o
+    - sync / async
+    - libuv
+    - working of async i/o or non-blocking thread
+- Practical 
+    - sync 
+    - async
+    - blocking
+    - setTimeout (cbfn,0);
