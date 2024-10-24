@@ -20,3 +20,16 @@
     - async
     - blocking
     - setTimeout (cbfn,0);
+- Deep Dive into libuv
+    - event loop 
+        - phases
+            - timer
+            - poll
+            - check
+            - close
+        - priority phases after every upper phase
+            - process.nextTick
+            - promise callback
+    - thread pool
+    - callback queue 
+        - There are different queue for different phases   
