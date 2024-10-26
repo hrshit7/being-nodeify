@@ -39,3 +39,8 @@
     - protocols 
     - socket vs websocket
     - DNS
+- Databases
+   - DBMS
+   - RDBMS
+   - SQL vs NOSQL
+- Creating MongoDB Databases
