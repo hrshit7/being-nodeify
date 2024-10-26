@@ -33,4 +33,9 @@
     - thread pool
     - callback queue 
         - There are different queue for different phases   
-        
+- server 
+    - client server Architecture
+    - sockets
+    - protocols 
+    - socket vs websocket
+    - DNS
